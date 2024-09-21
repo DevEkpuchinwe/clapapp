@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201010609359",
+    "project_id": "clapapp-001",
+    "storage_bucket": "clapapp-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201010609359:android:19ccc35178595374ed8bba",
+        "android_client_info": {
+          "package_name": "com.clap.clapapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHOjUGeJTqKSjjtYUCKOXZPFq1SjixnvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
